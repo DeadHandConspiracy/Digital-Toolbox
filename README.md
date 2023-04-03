@@ -7,3 +7,6 @@ The program also allows users to keep track of who they have loaned their tools 
 Additionally, the digital toolbox program can generate reports about the user's tools, including information about which tools are currently available, which ones are on loan, and which ones need maintenance or repair. This feature allows users to keep a detailed record of their tools and helps them plan for future tool purchases and maintenance.
 
 Overall, the digital toolbox program is an essential tool for anyone who wants to manage their tools more efficiently and effectively. It simplifies the process of keeping track of tools, loaning them out, and generating reports, making it an indispensable tool for any homeowner, contractor, or DIY enthusiast.
+
+# Instructions 
+
