@@ -9,4 +9,6 @@ Additionally, the digital toolbox program can generate reports about the user's 
 Overall, the digital toolbox program is an essential tool for anyone who wants to manage their tools more efficiently and effectively. It simplifies the process of keeping track of tools, loaning them out, and generating reports, making it an indispensable tool for any homeowner, contractor, or DIY enthusiast.
 
 # Instructions 
+The only two files needed to run the Digital tool is the the .EXE and the .DLL but the C# source code provided for presonal compile of the code.
+
 
