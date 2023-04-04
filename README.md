@@ -15,19 +15,16 @@ Put the two file into the folder of your choosing and run the program. Digital T
 
 ## Main Window
 1. Tool Available Panel
-      1a. Unsaved Updated Tool(flagged yellow)
-      1b. Tool image(shown when hover mouse over tool name)
-      1c. Person Name
-      1d. Return Date
+      1a. Unsaved Updated Tool(flagged yellow), 1b. Tool image(shown when hover mouse over tool name), 1c. Person Name, 1d. Return Date
+
 2. New Tool Name
 3. Tool Make
 4. Tool Model
 5. Tool Serial
 
 6. Image Location
-      6a. File Location
-      6b. Browse Button
-      6c. Image Preview
+      6a. File Location, 6b. Browse Button, 6c. Image Preview
+
 7. Add Tool Button
 8. Generate Report (under construction)
 9. Checkin/Checkout/Update Button
