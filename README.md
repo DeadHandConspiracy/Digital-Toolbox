@@ -12,3 +12,6 @@ Overall, the digital toolbox program is an essential tool for anyone who wants t
 The only two files needed to run the Digital tool is the the .EXE and the .DLL but the C# source code provided for presonal compile of the code.
 
 
+![alt text](https://github.com/DeadHandConspiracy/Digital-Toolbox/Digital%20Toolbox%20Index.png?raw=true)
+
+
