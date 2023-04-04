@@ -11,6 +11,8 @@ Overall, the digital toolbox program is an essential tool for anyone who wants t
 # Instructions 
 The only two files needed to run the Digital tool is the the .EXE and the .DLL but the C# source code provided for presonal compile of the code.
 
+Put the two file into the folder of your choosing and run the program. Digital Toolbox will create Images sub-folder and ToolList.csv file.
+
 ## Main Window
 1.Tool Available Panel
 
