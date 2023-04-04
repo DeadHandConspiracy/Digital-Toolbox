@@ -12,25 +12,43 @@ Overall, the digital toolbox program is an essential tool for anyone who wants t
 The only two files needed to run the Digital tool is the the .EXE and the .DLL but the C# source code provided for presonal compile of the code.
 
 ## Main Window
- 1.Tool Available Panel
- 1a. Unsaved Updated Tool(flagged yellow)
- 1b. Tool image(shown when hover mouse over tool name)
- 1c. Person Name
- 1d. Return Date
- 2. New Tool Name 
- 3. Tool Make
- 4. Tool Model
- 5. Tool Serial
- 6. Image Location
- 6a. File Location
- 6b. Browse Button
- 6c. Image Preview
- 7. Add Tool Button
- 8. Generate Report (under construction)
- 9. Checkin/Checkout/Update Button
- 10. Close Button
- 11. Remove Tool Button (based on line item)
- 12. Coffee Money
+1.Tool Available Panel
+
+1a. Unsaved Updated Tool(flagged yellow)
+
+1b. Tool image(shown when hover mouse over tool name)
+
+1c. Person Name
+
+1d. Return Date
+
+2. New Tool Name
+
+3. Tool Make
+
+4. Tool Model
+
+5. Tool Serial
+
+6. Image Location
+
+6a. File Location
+
+6b. Browse Button
+
+6c. Image Preview
+
+7. Add Tool Button
+
+8. Generate Report (under construction)
+
+9. Checkin/Checkout/Update Button
+
+10. Close Button
+
+11. Remove Tool Button (based on line item)
+
+12. Coffee Money
   
 ![alt text](https://github.com/DeadHandConspiracy/Digital-Toolbox/blob/main/Digital%20Toolbox%20Index.png?raw=true)
 
