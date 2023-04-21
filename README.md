@@ -32,6 +32,3 @@ Put the two file into the folder of your choosing and run the program. Digital T
 11. Remove Tool Button (based on line item)
 12. Coffee Money
  
-![alt text](https://github.com/DeadHandConspiracy/Digital-Toolbox/blob/main/Digital%20Toolbox%20Index.png?raw=true)
-
-
