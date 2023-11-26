@@ -1,3 +1,5 @@
+![Under Construction](https://user-images.githubusercontent.com/90804577/235811089-80b9bb64-8190-4145-b768-4a4fa93bdb05.png)
+
 # Digital-Toolbox
 
 The digital toolbox program is a powerful tool designed to help people manage their physical tools more efficiently. With this program, users can upload images of their tools, including detailed descriptions and any relevant information such as the tool's make, model, and serial number.
@@ -9,26 +11,9 @@ Additionally, the digital toolbox program can generate reports about the user's 
 Overall, the digital toolbox program is an essential tool for anyone who wants to manage their tools more efficiently and effectively. It simplifies the process of keeping track of tools, loaning them out, and generating reports, making it an indispensable tool for any homeowner, contractor, or DIY enthusiast.
 
 # Instructions 
-The only three files needed to run the Digital tool is the the .EXE, .DLL, and .runtimeconfig.json but the C# source code provided for presonal compile of the code.
-
-Put the two file into the folder of your choosing and run the program. Digital Toolbox will create Images sub-folder and ToolList.csv file.
+< Under Construction >
 
 ## Main Window
-1. Tool Available Panel
-      1a. Unsaved Updated Tool(flagged yellow), 1b. Tool image(shown when hover mouse over tool name), 1c. Person Name, 1d. Return Date
 
-2. New Tool Name
-3. Tool Make
-4. Tool Model
-5. Tool Serial
+![Main Window](https://github.com/DeadHandConspiracy/Digital-Toolbox/assets/90804577/4b0f56db-fe4d-44ff-b3c7-d9ae6e200431)
 
-6. Image Location
-      6a. File Location, 6b. Browse Button, 6c. Image Preview
-
-7. Add Tool Button
-8. Generate Report (under construction)
-9. Checkin/Checkout/Update Button
-10. Close Button
-11. Remove Tool Button (based on line item)
-12. Coffee Money
- 
