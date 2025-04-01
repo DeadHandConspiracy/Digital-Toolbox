@@ -14,7 +14,7 @@ Overall, the digital toolbox program is an essential tool for anyone who wants t
 < Under Construction >
 
 ## Main Window
-
+![Main Window](https://github.com/DeadHandConspiracy/Digital-Toolbox/blob/main/Main%20DT%20Window.png)
 
 
 ## Control Buttons
