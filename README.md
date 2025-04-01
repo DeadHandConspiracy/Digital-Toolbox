@@ -18,12 +18,12 @@ Overall, the digital toolbox program is an essential tool for anyone who wants t
 
 
 ## Control Buttons
+![Control Buttons](https://github.com/DeadHandConspiracy/Digital-Toolbox/blob/main/Control%20button.png)
 
-
-(1) Generate Report, (2) Program Settings, (3) Collection Search and Filter, and (4) Exit Button.
+(1)Collection Search and Filter, (2)  Generate Report, (3) Program Settings, (4) Bitcoin, (5) Summit Bug and 64) Exit Button.
 
 ## Storage Vessel Buttons
-
+![Storage Vessel Buttons](https://github.com/DeadHandConspiracy/Digital-Toolbox/blob/main/Storage%20vessel.png)
 
 (1) Work, (2) Home, (3) Garage, (4) Closet, (5) Cabinet, (6) Shelf, (7) Partsdrawer, (8) Toolbox, (9) Container, and (10) Peg Board.
 
