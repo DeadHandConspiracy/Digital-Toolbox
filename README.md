@@ -16,18 +16,18 @@ Overall, the digital toolbox program is an essential tool for anyone who wants t
 ## Main Window
 ![Main Window](https://github.com/DeadHandConspiracy/Digital-Toolbox/blob/main/Main%20DT%20Window.png)
 
-
 ## Control Buttons
 ![Control Buttons](https://github.com/DeadHandConspiracy/Digital-Toolbox/blob/main/Control%20button.png)
 
-(1)Collection Search and Filter, (2)  Generate Report, (3) Program Settings, (4) Bitcoin, (5) Summit Bug and 64) Exit Button.
+(1) Collection Search and Filter, (2)  Generate Report, (3) Program Settings, (4) Bitcoin, (5) Summit issue and (6) Exit Button.
 
 ## Storage Vessel Buttons
 ![Storage Vessel Buttons](https://github.com/DeadHandConspiracy/Digital-Toolbox/blob/main/Storage%20vessel.png)
 
 (1) Work, (2) Home, (3) Garage, (4) Closet, (5) Cabinet, (6) Shelf, (7) Partsdrawer, (8) Toolbox, (9) Container, and (10) Peg Board.
 
-## New Tool Buttons
+## Toolbox Buttons
+![Toolbox Buttons](https://github.com/DeadHandConspiracy/Digital-Toolbox/blob/main/Toolbox%20button.png)
 
-(1) Tool Property Textboxes, (2) Add Tool Image, (3) Add Tool, (4) Remove Tool, (5) Checkout Tool, (6) Bitcoin Coffee Money, and (7) Bug Report.
+(1) Save, (2) Open, (3) New Toolbox, (4) Merge Toolboxs, (5) Add Person, (6) Add Tool, (7) Add Vertual Container, (8) Add Script, and (9) Add Link.
 
